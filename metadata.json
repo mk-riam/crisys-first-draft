@@ -1,0 +1,6 @@
+{
+  "name": "Tahaffuz Karachi - Women's Crisis & Safety Network",
+  "description": "A women's crisis alert, 100m hyperlocal SOS radius broadcast, on-demand guardian booking, self-defense gear marketplace, and CNIC-verified safety network for Karachi.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
